@@ -1,0 +1,295 @@
+/*
+	@name pbl
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1680px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__result {
+	top: 0px;
+	left: 0px;
+	width: 1680px;
+	height: 1050px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_5 {
+	top: 45px;
+	left: 60px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#mam {
+	top: 45px;
+	left: 106px;
+	width: 122px;
+	height: 75px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#analytics {
+	top: 381px;
+	left: 109px;
+	width: 192px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#cefoxsr1707004101 {
+	top: 227px;
+	left: 44px;
+	width: 257px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#favpng_plain_text_font_1 {
+	top: 438px;
+	left: 53px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#advice {
+	top: 442px;
+	left: 109px;
+	width: 182px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sleep_schedule {
+	top: 71px;
+	left: 1184px;
+	width: 248px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_9_30_pm___6_00_am {
+	top: 324px;
+	left: 1157px;
+	width: 322px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#tomato_food_3028_1 {
+	top: 746px;
+	left: 559px;
+	width: 30px;
+	height: 30px;
+}
+
+
+#nutrition {
+	top: 743px;
+	left: 599px;
+	width: 185px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#workout {
+	top: 429px;
+	left: 599px;
+	width: 185px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#favpng_dashboard_organization_business_intelligence_1 {
+	top: 371px;
+	left: 53px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#favpng_dashboard_organization_business_intelligence_2 {
+	top: 68px;
+	left: 549px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#feature {
+	top: 324px;
+	left: 34px;
+	width: 152px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#profile {
+	top: 189px;
+	left: 34px;
+	width: 219px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#possibility {
+	top: 72px;
+	left: 544px;
+	width: 243px;
+	height: 78px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_6 {
+	top: 1361.5px;
+	left: 287px;
+	width: 1393px;
+	height: 74px;
+}
+
+
+#favpng_physical_exercise_clip_art_1 {
+	top: 417px;
+	left: 549px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#wondicon_ui_free_sleep_111270_1 {
+	top: 64px;
+	left: 1115px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#__pngtree_color_circle_percentage_5458159_1 {
+	top: 158px;
+	left: 519px;
+	width: 200px;
+	height: 181.48px;
+}
+
+
+#clock_hour_minute_second_time_timer_watch_icon_123193_1 {
+	top: 129px;
+	left: 1181px;
+	width: 186px;
+	height: 186px;
+}
+
+
+#__pngtree_color_circle_percentage_5458159_2 {
+	top: 143px;
+	left: 1174px;
+	width: 200px;
+	height: 181.48px;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_12 {
+	top: 491px;
+	left: 549px;
+	width: 871px;
+	height: 178px;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	-ms-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(56,173,169,1);
+}
+
+
+#rectangle_13 {
+	top: 809px;
+	left: 549px;
+	width: 871px;
+	height: 178px;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+	-ms-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(56,173,169,1);
+}
+
+
+
+/* Add your custom CSS here */
