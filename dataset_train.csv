@@ -1,0 +1,42 @@
+Sex,Age,Height,Weight,BMI,High blood pressure,Triglyceride,HDL cholesterol,Blood sugar,Drinking,Activities,Metabolic syndrome
+Female,74,145,39,18.5,Yes,,,,no,"Walking?Daily, 30 minutes / time), twice a day, around the housing complex",No
+Female,73,155,50,20.8,No,153.00,39,108,no,"Walking?Daily, 30 minutes / time), twice a day, around the housing complex",No
+Female,76,154,56.5,23.8,Yes,,68,,no,"Walking?Daily, 30 minutes / time), twice a day, around the housing complex",No
+Man,81,158,65,26,Yes,,,,yes,nothing,Yes
+Female,77,156,60,24.7,No,133.00,73,88,yes,"Walking?Daily, 30 minutes / time), twice a day, around the housing complex",No
+Female,85,158,59.5,23.8,Yes,78.00,116,100,no,nothing,No
+Female,71,148,52,23.7,No,,,93,no,nothing,No
+Female,92,157,60,24.3,Yes,114.00,,108,no,nothing,No
+Man,78,169.5,66,23,Yes,71.00,,126,yes,"Walking: Daily, 30 minutes / once, around the housing complex",No
+Man,79,165,58,21.3,Yes,,,,yes,Walking:,No
+Female,51,150,45,20,No,,,,no,"Walking :Daily, 30 minutes / time), twice a day, around the housing complex",No
+Man,71,156,58,23.8,Yes,,,,yes,Walking:,No
+Man,74,166,68,24.7,Yes,,,,yes,"Walking: Daily, 30 minutes / 2 times, neighborhood",No
+Man,71,168,60,21.3,Yes,,,,yes,nothing,No
+Female,71,161,64,24.7,No,,,,no,nothing,No
+Female,86,151,68,29.8,Yes,,,,no,"Walking: Daily, 30 minutes / once, around the housing complex",Yes
+Man,71,160,47,18.4,No,56.00,65,91,yes,"Walking: Daily, 30 minutes / once, around the housing complex",No
+Female,80,156,60,24.7,Yes,,,,no,"Walking: Daily, 20 minutes / time, once or twice a day, around the housing complex",No
+Female,86,149,57,25.7,No,,,,no,"Walking: Daily, 20 minutes / time, once or twice a day, around the housing complex",No
+Female,87,150,60,26.7,Yes,,,,no,"Walking: Daily, 30 minutes / 2 times, around the housing complex",Yes
+Female,76,161,56,21.6,Yes,,,,no,nothing,No
+Man,69,168,78,27.6,Yes,,,,yes,"Walking: Daily, 30 minutes / time, around the housing complex",Yes
+Female,69,158,70,28,Yes,,,,no,"Walking: Daily, 30 minutes / time, around the housing complex",No
+Man,89,159,65,25.7,Yes,,,,no,nothing,No
+Man,81,162,80,30.5,Yes,,,,yes,nothing,Yes
+Female,81,150,55,24.4,Yes,,,,no,"Walking: Daily, 20 minutes / time, once or twice a day, around the housing complex",No
+Female,75,142,41,20.3,Yes,,,,no,nothing,No
+Female,94,150,50,22.2,Yes,,,,no,nothing,No
+Female,80,155,48,20,Yes,,,,no,"Walking: Daily, 30 minutes / once, around the housing complex",No
+Female,73,161,50,19.3,Yes,,,,no,nothing,No
+Man,70,173,83,27.7,Yes,,,,no,nothing,Yes
+Man,82,171,53,18.1,Yes,,,,no,nothing,No
+Man,85,165.5,62,22.6,Yes,,,,yes,nothing,No
+Man,90,158,59,23.6,Yes,,,,no,nothing,No
+Female,74,152,39,16.9,No,,,,no,"Walking: Daily, 30 minutes / once, around the housing complex",No
+Female,94,135,40,21.9,No,,,,no,nothing,No
+Female,80,146,65,30.5,Yes,,,,no,"Walking (every day, 30 minutes / time), twice a day, around the housing complex",Yes
+Female,77,154,49,20.7,Yes,,,,no,"Walking (every day, 30 minutes / time), twice a day, around the housing complex",No
+Man,88,160,50,19.5,Yes,,,,no,nothing,No
+Man,71,168,59,20.9,Yes,,,,yes,"Walking: Daily, 30 minutes / once, neighborhood",No
+Female,70,159,60,23.7,No,,,,no,"Walking: Daily, 30 minutes / 2 times, around the housing complex",No

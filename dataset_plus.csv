@@ -1,0 +1,42 @@
+SubjectID,Gender,Age,Height,Weight,BMI,High blood pressure,Triglyceride,HDL cholesterol,Blood sugar,Drinking,Activities,Metabolic syndrome
+cefoxSR1707004101,Female,74,145,39,18.5,Yes,65,49,98,no,"Walking?Daily, 30 minutes / time), twice a day, around the housing complex",No
+cefoxSR1707003701,Female,73,155,50,20.8,No,153,47,108,no,"Walking?Daily, 30 minutes / time), twice a day, around the housing complex",No
+cefoxSR1707005101,Female,76,154,56.5,23.8,Yes,79,47,75,no,"Walking?Daily, 30 minutes / time), twice a day, around the housing complex",No
+cefoxSR1707003501,Man,81,158,65,26,Yes,100,55,140,yes,nothing,Yes
+cefoxSR1601000701,Female,77,156,60,24.7,No,133,73,88,yes,"Walking?Daily, 30 minutes / time), twice a day, around the housing complex",No
+cefoxSR1601005001,Female,85,158,59.5,23.8,Yes,78,116,100,no,nothing,No
+cefoxSR1601005301,Female,71,148,52,23.7,No,86,80,93,no,nothing,No
+cefoxSR1601005701,Female,92,157,60,24.3,Yes,114,75,108,no,nothing,No
+cefoxSR1707004301,Man,78,169.5,66,23,Yes,71,110,126,yes,"Walking: Daily, 30 minutes / once, around the housing complex",No
+cefoxSR1707004501,Man,79,165,58,21.3,Yes,132,124,101,yes,Walking:,No
+cefoxSR1707004401,Female,51,150,45,20,No,101,84,85,no,"Walking :Daily, 30 minutes / time), twice a day, around the housing complex",No
+cefoxSR1707004801,Man,71,156,58,23.8,Yes,95,76,103,yes,Walking:,No
+cefoxSR1707004701,Man,74,166,68,24.7,Yes,142,74,96,yes,"Walking: Daily, 30 minutes / 2 times, neighborhood",No
+cefoxSR1707004201,Man,71,168,60,21.3,Yes,122,92,69,yes,nothing,No
+cefoxSR1707005601,Female,71,161,64,24.7,No,85,99,84,no,nothing,No
+cefoxSR1707004901,Female,86,151,68,29.8,Yes,154,30,144,no,"Walking: Daily, 30 minutes / once, around the housing complex",Yes
+cefoxSR1707004601,Man,71,160,47,18.4,No,56,65,91,yes,"Walking: Daily, 30 minutes / once, around the housing complex",No
+A1,Female,80,156,60,24.7,Yes,102,78,117,no,"Walking: Daily, 20 minutes / time, once or twice a day, around the housing complex",No
+A2,Female,86,149,57,25.7,No,110,93,125,no,"Walking: Daily, 20 minutes / time, once or twice a day, around the housing complex",No
+A3,Female,87,150,60,26.7,Yes,132,32,142,no,"Walking: Daily, 30 minutes / 2 times, around the housing complex",Yes
+A4,Female,76,161,56,21.6,Yes,120,109,63,no,nothing,No
+A5,Man,69,168,78,27.6,Yes,76,92,151,yes,"Walking: Daily, 30 minutes / time, around the housing complex",Yes
+A6,Female,69,158,70,28,Yes,87,64,112,no,"Walking: Daily, 30 minutes / time, around the housing complex",No
+A7,Man,89,159,65,25.7,Yes,75,77,94,no,nothing,No
+A8,Man,81,162,80,30.5,Yes,162,38,111,yes,nothing,Yes
+A9,Female,81,150,55,24.4,Yes,64,120,74,no,"Walking: Daily, 20 minutes / time, once or twice a day, around the housing complex",No
+A10,Female,75,142,41,20.3,Yes,90,112,123,no,nothing,No
+A11,Female,94,150,50,22.2,Yes,100,74,92,no,nothing,No
+A12,Female,80,155,48,20,Yes,110,56,113,no,"Walking: Daily, 30 minutes / once, around the housing complex",No
+A13,Female,73,161,50,19.3,Yes,93,47,111,no,nothing,No
+A14,Man,70,173,83,27.7,Yes,120,115,146,no,nothing,Yes
+A15,Man,82,171,53,18.1,Yes,84,81,92,no,nothing,No
+A16,Man,85,165.5,62,22.6,Yes,60,58,69,yes,nothing,No
+A17,Man,90,158,59,23.6,Yes,40,95,66,no,nothing,No
+A18,Female,74,152,39,16.9,No,35,62,50,no,"Walking: Daily, 30 minutes / once, around the housing complex",No
+A19,Female,94,135,40,21.9,No,74,49,81,no,nothing,No
+A20,Female,80,146,65,30.5,Yes,152,45,120,no,"Walking (every day, 30 minutes / time), twice a day, around the housing complex",Yes
+A21,Female,77,154,49,20.7,Yes,69,63,74,no,"Walking (every day, 30 minutes / time), twice a day, around the housing complex",No
+A22,Man,88,160,50,19.5,Yes,84,84,72,no,nothing,No
+A23,Man,71,168,59,20.9,Yes,109,91,79,yes,"Walking: Daily, 30 minutes / once, neighborhood",No
+A24,Female,70,159,60,23.7,No,93,83,114,no,"Walking: Daily, 30 minutes / 2 times, around the housing complex",No
