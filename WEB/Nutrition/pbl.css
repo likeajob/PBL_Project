@@ -1,0 +1,177 @@
+/*
+	@name pbl
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1680px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__nutrition {
+	top: 0px;
+	left: 0px;
+	width: 1680px;
+	height: 1050px;
+	background:rgba(56,173,169,1);
+}
+
+
+#rectangle_7 {
+	top: 45px;
+	left: 60px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#mam {
+	top: 45px;
+	left: 106px;
+	width: 122px;
+	height: 75px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#analytics {
+	top: 360px;
+	left: 135px;
+	width: 192px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#cefoxsr1707004101 {
+	top: 206px;
+	left: 70px;
+	width: 257px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#workout {
+	top: 421px;
+	left: 135px;
+	width: 182px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#nutrition {
+	top: 483px;
+	left: 135px;
+	width: 182px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#favpng_dashboard_organization_business_intelligence_1 {
+	top: 350px;
+	left: 79px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#feature {
+	top: 303px;
+	left: 60px;
+	width: 152px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#profile {
+	top: 168px;
+	left: 60px;
+	width: 219px;
+	height: 55px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#favpng_physical_exercise_clip_art_1 {
+	top: 412px;
+	left: 79px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#image {
+	top: 477px;
+	left: 84px;
+	width: 35px;
+	height: 35.56px;
+}
+
+
+#nutrition_ek1 {
+	top: 174px;
+	left: 779px;
+	width: 222px;
+	height: 89px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_ek1 {
+	top: 168px;
+	left: 707px;
+	width: 60px;
+	height: 60.95px;
+}
+
+
+#image_5 {
+	top: 303px;
+	left: 555px;
+	width: 641px;
+	height: 506px;
+}
+
+
+
+/* Add your custom CSS here */
