@@ -1,0 +1,411 @@
+/*
+	@name pbl
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1680px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__input_metabolic {
+	top: 0px;
+	left: 0px;
+	width: 1680px;
+	height: 1050px;
+	background:rgba(56,173,169,1);
+}
+
+
+#rectangle_3 {
+	top: 281px;
+	left: 214px;
+	width: 552px;
+	height: 62px;
+}
+
+
+#rectangle_7 {
+	top: 45px;
+	left: 60px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#mam {
+	top: 45px;
+	left: 106px;
+	width: 122px;
+	height: 75px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#nutrition_information {
+	top: 92px;
+	left: 531px;
+	width: 633px;
+	height: 120px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 64px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#name {
+	top: 241px;
+	left: 244px;
+	width: 420px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_8 {
+	top: 281px;
+	left: 915px;
+	width: 552px;
+	height: 62px;
+}
+
+
+#surname {
+	top: 241px;
+	left: 945px;
+	width: 420px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_9 {
+	top: 443px;
+	left: 214px;
+	width: 204px;
+	height: 62px;
+}
+
+
+#age {
+	top: 403px;
+	left: 229px;
+	width: 222px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_13 {
+	top: 603px;
+	left: 214px;
+	width: 204px;
+	height: 62px;
+}
+
+
+#bmi {
+	top: 563px;
+	left: 229px;
+	width: 222px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_17 {
+	top: 763px;
+	left: 210px;
+	width: 208px;
+	height: 62px;
+}
+
+
+#blood_sugar {
+	top: 723px;
+	left: 225px;
+	width: 226px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_14 {
+	top: 603px;
+	left: 514px;
+	width: 324px;
+	height: 62px;
+}
+
+
+#high_blood_pressure {
+	top: 563px;
+	left: 536px;
+	width: 322px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_12 {
+	top: 441px;
+	left: 1125px;
+	width: 144px;
+	height: 62px;
+}
+
+
+#weight {
+	top: 401px;
+	left: 1134px;
+	width: 146px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_21 {
+	top: 441px;
+	left: 1329px;
+	width: 161px;
+	height: 62px;
+}
+
+
+#body_fat {
+	top: 401px;
+	left: 1339px;
+	width: 148px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_11 {
+	top: 441px;
+	left: 915px;
+	width: 150px;
+	height: 62px;
+}
+
+
+#height {
+	top: 401px;
+	left: 923px;
+	width: 125px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_10 {
+	top: 443px;
+	left: 514px;
+	width: 298px;
+	height: 62px;
+}
+
+
+#gender {
+	top: 401px;
+	left: 537px;
+	width: 321px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#polygon_1 {
+	top: 461px;
+	left: 772px;
+	width: 25px;
+	height: 25px;
+}
+
+
+#polygon_2 {
+	top: 621px;
+	left: 796px;
+	width: 25px;
+	height: 25px;
+}
+
+
+#rectangle_18 {
+	top: 763px;
+	left: 515px;
+	width: 238px;
+	height: 62px;
+}
+
+
+#drinking {
+	top: 723px;
+	left: 532px;
+	width: 241px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#polygon_3 {
+	top: 781px;
+	left: 715px;
+	width: 25px;
+	height: 25px;
+}
+
+
+#rectangle_15 {
+	top: 603px;
+	left: 915px;
+	width: 223px;
+	height: 62px;
+}
+
+
+#triglyceride {
+	top: 563px;
+	left: 930px;
+	width: 215px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_19 {
+	top: 763px;
+	left: 915px;
+	width: 223px;
+	height: 62px;
+}
+
+
+#walking_min {
+	top: 723px;
+	left: 931px;
+	width: 227px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_20 {
+	top: 763px;
+	left: 1228px;
+	width: 278px;
+	height: 62px;
+}
+
+
+#walking_num_day {
+	top: 723px;
+	left: 1247px;
+	width: 279px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#submit {
+	top: 883px;
+	left: 753px;
+	width: 202px;
+	height: 96px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_16 {
+	top: 603px;
+	left: 1228px;
+	width: 278px;
+	height: 62px;
+}
+
+
+#hdl_cholesterol {
+	top: 563px;
+	left: 1247px;
+	width: 279px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
