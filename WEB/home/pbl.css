@@ -1,0 +1,298 @@
+/*
+	@name pbl
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1680px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__home {
+	top: 0px;
+	left: 0px;
+	width: 1680px;
+	height: 1050px;
+	background:rgba(56,173,169,1);
+}
+
+
+#rectangle_7 {
+	top: 45px;
+	left: 60px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#mam {
+	top: 45px;
+	left: 106px;
+	width: 122px;
+	height: 75px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#rectangle_20 {
+	top: 197px;
+	left: 367px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#add {
+	top: 197px;
+	left: 408px;
+	width: 104px;
+	height: 75px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#rectangle_3 {
+	top: 193px;
+	left: 865px;
+	width: 396px;
+	height: 57px;
+}
+
+
+#rectangle_9 {
+	top: 316px;
+	left: 367px;
+	width: 396px;
+	height: 57px;
+}
+
+
+#rectangle_13 {
+	top: 316px;
+	left: 865px;
+	width: 396px;
+	height: 57px;
+}
+
+
+#rectangle_14 {
+	top: 419px;
+	left: 865px;
+	width: 396px;
+	height: 57px;
+}
+
+
+#rectangle_15 {
+	top: 522px;
+	left: 865px;
+	width: 396px;
+	height: 57px;
+}
+
+
+#rectangle_16 {
+	top: 625px;
+	left: 865px;
+	width: 396px;
+	height: 57px;
+}
+
+
+#rectangle_10 {
+	top: 419px;
+	left: 367px;
+	width: 396px;
+	height: 57px;
+}
+
+
+#rectangle_11 {
+	top: 522px;
+	left: 367px;
+	width: 396px;
+	height: 57px;
+}
+
+
+#rectangle_12 {
+	top: 625px;
+	left: 367px;
+	width: 396px;
+	height: 57px;
+}
+
+
+#search {
+	top: 207px;
+	left: 1167px;
+	width: 102px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#cefoxsr1707004101 {
+	top: 327px;
+	left: 416px;
+	width: 308px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#cefoxsr1707003701 {
+	top: 429px;
+	left: 416px;
+	width: 308px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#cefoxsr1707005101 {
+	top: 532px;
+	left: 416px;
+	width: 308px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#cefoxsr1707003501 {
+	top: 635px;
+	left: 416px;
+	width: 308px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#cefoxsr1707004101_ek1 {
+	top: 327px;
+	left: 914px;
+	width: 308px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#cefoxsr1707004101_ek2 {
+	top: 429px;
+	left: 914px;
+	width: 308px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#cefoxsr1707004101_ek3 {
+	top: 532px;
+	left: 914px;
+	width: 308px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#cefoxsr1707004101_ek4 {
+	top: 635px;
+	left: 914px;
+	width: 308px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_17 {
+	top: 728px;
+	left: 865px;
+	width: 396px;
+	height: 57px;
+}
+
+
+#rectangle_18 {
+	top: 728px;
+	left: 367px;
+	width: 396px;
+	height: 57px;
+}
+
+
+#cefoxsr1707003501_ek1 {
+	top: 738px;
+	left: 416px;
+	width: 308px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#cefoxsr1707004101_ek5 {
+	top: 738px;
+	left: 914px;
+	width: 308px;
+	height: 58px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

@@ -1,0 +1,38 @@
+/*
+	@name pbl
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1680px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__homepage {
+	top: 0px;
+	left: 0px;
+	width: 1680px;
+	height: 1050px;
+	background:rgba(56,173,169,1);
+}
+
+
+#monitoring_and_advising_metabolic_syndrome {
+	top: 429px;
+	left: 173px;
+	width: 1352px;
+	height: 242px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 72px;
+	text-align: center;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
